@@ -1,4 +1,4 @@
-# hello-elementui
+# book-a-day
 
 ## Project setup
 ```
