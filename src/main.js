@@ -11,14 +11,14 @@ Vue.config.productionTip = false
 Vue.use(ElementUI)
 
 const configOptions = {
-  apiKey: 'AIzaSyCgdQYjiQQakdwbM7Xr-HRETrKw7Fe6v_0',
-  authDomain: 'book-a-day.firebaseapp.com',
-  databaseURL: 'https://book-a-day.firebaseio.com',
-  projectId: 'book-a-day',
-  storageBucket: 'book-a-day.appspot.com',
-  messagingSenderId: '643102434331',
-  appId: '1:643102434331:web:1b0f981de344c8cc3b84be',
-  measurementId: 'G-RTNXR72XMT'
+  apiKey: '',
+  authDomain: '',
+  databaseURL: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: '',
+  measurementId: ''
 }
 
 firebase.initializeApp(configOptions)
